@@ -1,5 +1,7 @@
 # De Little Goa
 
+**Live site:** [https://de-little-goa.vercel.app](https://de-little-goa.vercel.app)
+
 Website for De Little Goa, a Goan restaurant, built with React and Vite.
 
 ## Features
